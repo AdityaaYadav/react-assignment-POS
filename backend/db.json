@@ -1,0 +1,28 @@
+{
+    "products":[
+        {
+            "id":123,
+            "name": "Computer",
+            "price":"130",
+            "image":"https://cdn.pixabay.com/photo/2017/11/27/21/31/computer-2982270_960_720.jpg"
+        },
+        {
+            "id":124,
+            "name": "Sweater",
+            "price":"2",
+            "image":"https://cdn.pixabay.com/photo/2016/02/25/20/41/sweater-1222876_960_720.jpg"
+        },
+        {
+            "id":125,
+            "name": "tie",
+            "price":"46",
+            "image":"https://cdn.pixabay.com/photo/2017/11/13/20/41/tie-2946772_960_720.jpg"
+        },
+        {
+            "id":126,
+            "name": "jacket",
+            "price":"190",
+            "image":"https://cdn.pixabay.com/photo/2014/05/30/05/01/jackets-357898_960_720.jpg"
+        }
+    ]
+}
